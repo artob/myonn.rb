@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor backup files
+*~
+
+# rst2html outputs
+*.html
+
+# MNIST datasets
+data/mnist_test.csv
+data/mnist_train.csv
+
+# Ruby 2D builds
+build/
